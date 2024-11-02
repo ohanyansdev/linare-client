@@ -1,0 +1,69 @@
+{
+  "landing": {
+    "carousel_text1": "Modern devices",
+    "carousel_text2": "Your Health, Our Priority",
+    "carousel_text3": "Rigorous Standards",
+    "products": "Products",
+    "no_data": "No data to show",
+    "helpline": "24/7 helpline",
+    "free_shipping": "Free Shipping",
+    "save_big": "Save big on the next product",
+    "welcome_support": "Welcome To Our Support. We're Here To Help",
+    "need_help": "ALWAYS ON YOUR SIDE WHEN YOU NEED HELP",
+    "contact_us": "Contact us",
+    "doubts": "if have any doubts",
+    "know_more": "Know More",
+    "quick_view": "Quick View",
+    "categories": "Categories",
+    "full_details": "View full details"
+  },
+  "tabs": {
+    "home": "Home",
+    "products": "Products",
+    "about-us": "About us",
+    "contacts": "Contacts"
+  },
+  "products": {
+    "products": "PRODUCTS",
+    "product": "PRODUCT",
+    "filter_category": "Filter by category",
+    "search": "Search...",
+    "search_heading": "Search",
+    "select": "Select...",
+    "not_found": "Products not found",
+    "categories": "Categories:",
+    "description": "Description"
+  },
+  "about": {
+    "about": "ABOUT US",
+    "who_we_are": "Who We Are",
+    "about_heading": "Welcome to website of  LINARE  LLC. LINARE was  founded  in 2008 and is engaged in the import and sale of medical products in the territory of the Republic of Armenia. We work with about 180 hospitals, medical institutions and laboratories in Armenia. The selection of imported and supplied products is wide ranging from chemical reagents used in diagnostics, processing media, laboratory plastic and glassware to the latest medical equipment and hospital furniture. We have partners in all parts of the world. We import medical devices and accessories from USA, Great Britain, Germany, Austria, Italy, France, Poland, Croatia, Switzerland, Russia, South Korea, Japan, China, India, etc. Most of the range of products is presented in our trade hall.",
+    "create_technology": "Advantages of working with our company:",
+    "main_service": "Explore Our Main Service",
+    "cardiology": "Cardiology",
+    "cardiology_text": "Cardiology is the branch of medicine that focuses on the study, diagnosis, and treatment of disorders related to the heart and the circulatory system.",
+    "endocrinology": "Endocrinology",
+    "endocrinology_text": " Endocrinology is a specialized field of medicine that focuses on the study and management of the endocrine system, which consists of glands that produce hormones.",
+    "angioplasty": "Angioplasty",
+    "angioplasty_text": "Angioplasty is a medical procedure used to treat narrowed or blocked blood vessels, typically arteries, by widening the vessel and restoring blood flow.",
+    "happy_to_say": "Customer reviews",
+    "our_collaborators": "Our partners",
+    "about_text1": "More than 15 years in the market. This speaks of being a reliable and responsible partner.",
+    "about_text2": "Linare is a direct importer and distributor. Minimum price is guarantee for the buyer.",
+    "about_text3": "We only have registered brands that have international certificates. This is proof of quality assurance.",
+    "about_text4": "Products are in stock, so we arrange fast delivery.",
+    "about_text5": "Office and shop with a large showroom are located in the same place.",
+    "about_text6": "Every customer is precious to us. You will find with us a product with a combination of high quality and affordable price.",
+    "about_text7": "We are open for cooperation."
+  },
+  "contacts": {
+    "contact": "CONTACTS",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "comment": "Comment",
+    "contacts": "Contacts",
+    "send": "Send"
+  }
+}
